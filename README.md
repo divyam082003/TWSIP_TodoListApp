@@ -12,10 +12,12 @@ A simple and intuitive To-Do List app built with Android to help users manage th
 ## Screenshots
 
 ### Task List
-![Task List](ss/s1.png)
+### Task List
+<img src="ss/s1.png" width="250"/>
 
 ### Add Task
-![Add Task](ss/s2.png)
+<img src="ss/s2.png" width="250"/>
 
 ### Task Details
-![Task Details](ss/s3.png)
+<img src="ss/s3.png" width="250"/>
+
