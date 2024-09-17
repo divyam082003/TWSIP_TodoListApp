@@ -8,3 +8,14 @@ A simple and intuitive To-Do List app built with Android to help users manage th
 - Set due dates and prioritize tasks
 - Organize tasks using categories and labels
 - Mark tasks as complete or incomplete
+
+## Screenshots
+
+### Task List
+![Task List](ss/s1.png)
+
+### Add Task
+![Add Task](ss/s2.png)
+
+### Task Details
+![Task Details](ss/s3.png)
