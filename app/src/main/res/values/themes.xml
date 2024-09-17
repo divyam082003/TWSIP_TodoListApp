@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ToDoList" parent="Theme.Material3.Light">
+
+        <!-- Customize your light theme here. -->
+
+        <item name="colorPrimary">#011936</item>
+        <item name="colorOnPrimary">#9DB8B7</item>
+        <item name="colorSecondary">#465362</item>
+        <item name="colorOnSecondary">#C0DFA1</item>
+        <item name="colorPrimaryVariant">#9FC490</item>
+        <item name="colorSecondaryVariant">#C0DFA1</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.ToDoList" parent="Base.Theme.ToDoList" />
+</resources>
