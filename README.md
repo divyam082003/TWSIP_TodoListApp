@@ -11,8 +11,8 @@ A simple and intuitive To-Do List app built with Android to help users manage th
 
 ## Screenshots
 
-### Task List
-### Task List
+### TaskMaster
+
 <img src="ss/s1.png" width="250"/>
 
 ### Add Task
